@@ -63,6 +63,8 @@ limited per-class data (~30 images/class), not a flaw in the model. Likely
 improvements: more data per class, or higher input resolution so fine plumage
 details survive.
 
+![Grad-CAM examples](gradcam.png)
+
 ## Dataset
 
 Wah, C., Branson, S., Welinder, P., Perona, P., Belongie, S.
