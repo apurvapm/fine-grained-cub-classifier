@@ -1,7 +1,7 @@
-# Bird-Image-Recognizer-CUB
+# Fine Grained CUB Classifier
 Fine Tune EfficientNet to recognize the 200 bird species in the CalTech-UCSD Birds-200-2011 (CUB-200-2011) dataset, with transfer learning, traing/evaluation, and model interpretability (Grad-CAM + error analysis)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/apurvapm/Bird-Image-Recognizer-CUB/blob/main/CUB_EF~1_IPY.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/apurvapm/fine-grained-cub-classifier/blob/main/CUB_EF~1_IPY.ipynb)
 
 ## What is done:
 
